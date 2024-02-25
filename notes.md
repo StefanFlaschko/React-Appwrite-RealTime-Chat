@@ -11,3 +11,7 @@ stefan.flaschko@live.de
 # Github
 
 https://github.com/divanov11/React-Appwrite-RealTime-Chat
+
+# YouTube
+
+https://www.youtube.com/watch?v=t7S0I78sloI&t=77s
